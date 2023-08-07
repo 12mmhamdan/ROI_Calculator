@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/KMcClain23/ROI_Calc/blob/main/logo.png)
+![Logo](https://github.com/12mmhamdan/ROI_Calculator/blob/main/logo.png)
 
 
 # Laggy Larry's ROI Calculator
@@ -9,7 +9,7 @@
 
 ## Demo
 
-![](https://github.com/KMcClain23/ROI_Calc/blob/main/ROI%20Calc%20gif.gif)
+![](https://github.com/12mmhamdan/ROI_Calculator/blob/main/ROI%20Calc%20gif.gif)
 
 
 ## Used By
