@@ -219,6 +219,6 @@ class Main:
     cash_on_cash_roi_value = hello.cash_on_cash(annual_cash_flow_value, total_investment_value)
 
     animate_typing(f"\nYour Cash ROI is {cash_on_cash_roi_value:.2f}%!\n")
-    animate_typing("\nThank you for using Laggy Larry's ROI calculator and foot massage.\n\nFeedback? Find the README on my github page at https://github.com/KMcClain23/ROI_Calc")
+    animate_typing("\nThank you for using Laggy Larry's ROI calculator and foot massage.\n\nFeedback? Find the README on my github page at https://github.com/12mmhamdan/ROI_Calculator")
 
 Main()
